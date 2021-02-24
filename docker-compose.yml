@@ -1,0 +1,13 @@
+version: "3"
+
+# ...
+services:
+  # ...
+  service_doc:
+    container_name: service_doc
+    build: docker/doc
+    volumes:
+      - ./doc:/etc/Sphinx/source
+    ports:
+      - 1100:80
+# ...
