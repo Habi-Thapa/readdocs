@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, try
+# This file is distributed under the same license as the try package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: try\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-23 15:40+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../index.rst:9
+#: ../../second.rst:9
+msgid "Contents:"
+msgstr ""
+
+#: ../../index.rst:7
+msgid "Welcome to try's documentation!"
+msgstr ""
+
+#: ../../index.rst:16
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:18
+#: ../../second.rst:18
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:19
+#: ../../second.rst:19
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:20
+#: ../../second.rst:20
+msgid ":ref:`search`"
+msgstr ""
+
+#: ../../mysphinxdirections.rst:1
+msgid "test lets try translating this file."
+msgstr ""
+
+#: ../../second.rst:7
+msgid "Welcome to Second's documentation!"
+msgstr ""
+
+#: ../../second.rst:16
+msgid "Second Indices and tables"
+msgstr ""
