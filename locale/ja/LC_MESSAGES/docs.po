@@ -3,18 +3,20 @@
 # This file is distributed under the same license as the try package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: try \n"
+"Project-Id-Version: try\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-23 15:40+0545\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-02-24 15:38+0000\n"
+"Last-Translator: Habi Thapa <habi@yarsa.org>\n"
+"Language-Team: Japanese <https://vocab.yarsa.org/projects/snl/git-po/ja/>\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.5\n"
 "Generated-By: Babel 2.9.0\n"
 
 #: ../../index.rst:9 ../../second.rst:9
@@ -23,7 +25,7 @@ msgstr ""
 
 #: ../../index.rst:7
 msgid "Welcome to try's documentation!"
-msgstr ""
+msgstr "ja p"
 
 #: ../../index.rst:16
 msgid "Indices and tables"
@@ -52,4 +54,3 @@ msgstr ""
 #: ../../second.rst:16
 msgid "Second Indices and tables"
 msgstr ""
-
