@@ -27,7 +27,7 @@ msgstr ""
 
 #: ../../index.rst:16
 msgid "Indices and tables"
-msgstr "aaaaaaaaaaaaa"
+msgstr "This is japnese"
 
 #: ../../index.rst:18 ../../second.rst:18
 msgid ":ref:`genindex`"
