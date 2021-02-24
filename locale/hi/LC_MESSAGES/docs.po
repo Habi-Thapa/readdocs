@@ -8,22 +8,24 @@ msgstr ""
 "Project-Id-Version: try\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-23 15:40+0545\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-02-24 15:30+0000\n"
+"Last-Translator: Habi Thapa <habi@yarsa.org>\n"
+"Language-Team: Hindi <https://vocab.yarsa.org/projects/snl/git-po/hi/>\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.5\n"
 
 #: ../../index.rst:9
 #: ../../second.rst:9
 msgid "Contents:"
-msgstr ""
+msgstr "This is for hindi:"
 
 #: ../../index.rst:7
 msgid "Welcome to try's documentation!"
-msgstr ""
+msgstr "swagatam"
 
 #: ../../index.rst:16
 msgid "Indices and tables"
